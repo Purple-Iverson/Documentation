@@ -9,7 +9,7 @@
 >- Create new Question type 
 >- Import one type of question into question bank
 
-## Accepted technicle requirements 
+## Accepted technical requirements 
 - Login System with 1 user type
 - Have Hub/menu
 - Create new Question type 
