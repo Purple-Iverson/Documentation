@@ -19,4 +19,4 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
   * Tracking: we can push to sprint 3 & 4
 * Flow of importing questions to database
 * Component Diagrams
- 
+* By tuesday: want diagrams for creating and have database ready for implentation
