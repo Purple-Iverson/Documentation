@@ -1,6 +1,6 @@
 # Sprint 2 User Stories
 
-> The Checked use stories are the accepted user stories
+> The checked use stories are the accepted user stories
 
 - [x] As an authorised person (staff member), I want to create different types of questions (MCQs, and fill in the blank) to add variety and complexity to the tests.
 
