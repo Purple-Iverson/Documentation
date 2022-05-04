@@ -1,4 +1,4 @@
-# Sprint 2 Meeting Minutes
+# Sprint 2 Meeting 4 Minutes
 
 ## Date: 4 May 2022
 ## Time: 10:00
