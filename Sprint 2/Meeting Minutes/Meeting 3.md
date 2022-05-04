@@ -1,4 +1,4 @@
-# Sprint 2 Meeting 3
+# Sprint 2 Meeting 3 Minutes
 
 ## Date: 1 April 2022
 
@@ -20,3 +20,7 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 * Flow of importing questions to database
 * Component Diagrams
 * By tuesday: want diagrams for creating and have database ready for implentation
+
+## Next Meeting:
+
+4 May 2022
