@@ -2,15 +2,15 @@
 
 > The checked use stories are the accepted user stories
 
-- [x] As an user, I want to create a multiple choice question to add variety and complexity to the tests.
+- [x] As an user, I want to create a multiple choice question to add variety and complexity to the tests and the type of questions in the system.
     - [x] User Acceptance Test:	Given that I am an a signed in user, when I create a new mcq question, the question will be stored in the system.
     - [x] Task: Add create 'mcq' button to drop down menu
     - [x] Task: Create page for multiple choice question 
-- [x] As an user, I want to create an essay question to add variety and complexity to the tests.
+- [x] As an user, I want to create an essay question to add variety and complexity to the tests and the type of questions in the system.
     - [x] User Acceptance Test:	Given that I am an a signed in user, when I create a new essay question, the question will be stored in the system. 
     - [x] Task: Add create 'essay question' link to drop down menu
     - [x] Task: Create page for essay question  
-- [x] As an user, I want to create a text entry question to add variety and complexity to the tests.
+- [x] As an user, I want to create a text entry question to add variety and complexity to the tests and the type of questions in the system.
     - [x] User Acceptance Test:	Given that I am an a signed in user, when I create a new text-entry question, the question will be stored in the system. 
     - [x] Task: Add create 'text entry question' link to drop down menu
     - [x] Task: Create page for a text entry question  
