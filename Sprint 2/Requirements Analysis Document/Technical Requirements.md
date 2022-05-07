@@ -11,6 +11,3 @@
   * This can be done by either a thumbs up icon (like) or thumbs down icon (dislike) and a comment text box
 
 
-* Track user activity on a system
-  * A user will be able to track the number of times they viewed, imported, exported, and created a question 
-  * These will be recorded as a record in the database
