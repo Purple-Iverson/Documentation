@@ -8,7 +8,6 @@ For the global architecture, we will be the Representational State Transfer (RES
 
 For the flutter architecture, we will use a Model-View-Controller (MVC) architecture style, where the model manages the data and system logic, the view will present the model to the user and the controller accepts the user input and passes it to the model. In the model-view-controller architecture style, the components are separate and interact only through specific interfaces. So, the MVC style has low cohesion and allows the interface between data and the business logic and the user interface to communicate seamlessly. The MVC style is as well easy to modify. 
 
-A design pattern method to be used for the QTI files will be the, Template Method. The template method pattern allows for an algorithm skeleton to be defined 
-in a superclass as a series of high-level steps, with the implementation of 
+A design pattern method to be used for the importing of questions will be the, Template Method. The template method pattern allows for an algorithm skeleton to be defined in a superclass as a series of high-level steps, with the implementation of 
 these steps defined in subclasses
 
