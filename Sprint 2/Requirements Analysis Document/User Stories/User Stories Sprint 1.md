@@ -6,7 +6,7 @@
 * As an user, I can view the hub/menu to see what I would like to do next.
   * Task: Create hub/menu  
 * As an user, I can view/access questions in the question bank.
-* As an user, I can log in to the system to get access to the question bank system
+* As an user, I want to log in with my username and password into the system to get access to the question bank system
   * Task: Create log in UI
   * Task: Create way to log in  
 
