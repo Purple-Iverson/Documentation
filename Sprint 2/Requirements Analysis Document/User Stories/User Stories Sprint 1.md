@@ -5,13 +5,14 @@
   * Task: Create new question page 
   * Task: Add link from hub/menu to create new question page
   
-* As an user, I can view the hub/menu to see what I would like to do next.
+- [x] As an user, I can view the hub/menu to see what I would like to do next.
+  * User-Acceptance Test: Given that I am a log-in user, when I log-in, i will be redirected to the hub/menu. 
   * Task: Create hub/menu  
   
-* As an user, I can view/access questions in the question bank.
+- [x] As an user, I can view/access questions in the question bank.
   * User-Acceptance Test:	Given that I am a log-in user and I am on the menu/hub page, when I open the “Questions” page, then the system shows a list of all               questions that have been created/imported into the system. 
    
-* As an user, I want to log in with my username and password into the system to get access to the question bank system
+- [x] As an user, I want to log in with my username and password into the system to get access to the question bank system
   * User-Acceptance Test: Given that I am logged out of the system and I am on the Sign-in page, when I enter my username and password and click the login button, then     the system will log me into the system and then shows the menu/hub page.
   * Task: Create log in UI
   * Task: Create way to log in  
