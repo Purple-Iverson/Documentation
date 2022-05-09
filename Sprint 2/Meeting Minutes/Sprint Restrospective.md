@@ -13,3 +13,10 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
   * Need to document issues
   * Split up tasks into smaller tasks
   * Need more people on back-end
+
+* **Sprint 2**
+  * Sprint going well
+  * Create Minimum Viable Product and then treat every other feature as an add on features
+  * Need to decide wether we want to change to mySQL or stick with noSQL 
+  * Tasks splitted up in a proper way
+  * Do not under estimate the front-end work 
