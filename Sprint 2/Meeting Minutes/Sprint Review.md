@@ -21,5 +21,5 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 * Firestore with firebase with noSQL
 * mySQL with local server
 * Display of WebApp so far
-* NB! Get Minimal Viable Product working as quick as possibly and think of everything else as extra features - Prof. Klein
+* **NB!** Get Minimal Viable Product working as quick as possibly and think of everything else as extra features - Prof. Klein
 * MOCK API
