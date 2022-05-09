@@ -1,6 +1,6 @@
 # Sprint 1 User Stories
 
-* As an user, I can create new questions to add to the question bank.
+- [x] As an user, I can create new questions to add to the question bank.
   * User-Acceptance Test: Given that I am a log-in user, when I create a new question, the question will be stored in the system and I will be able to view it.
   * Task: Create new question page 
   * Task: Add link from hub/menu to create new question page
