@@ -10,7 +10,7 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 
 * Explanantion to Prof. Klein on Question Bank System
 * Prof. Klein created course on moodle where we can test the exports
-* All imports are of form QTI (so if in CSV, convert to QTI) - question from Derrin, can be a lot of complexity
+* All imports are of form QTI (so if in CSV, convert to QTI) - question from Derrin (can be a lot of complexity)
 * Database Structure - do not store file in a blob in database, store in a file system. 
 * Storing in QTI format itself - depends on how you want to query questions 
 * Relook at using NoSQL, creating recreational database
@@ -21,5 +21,5 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 * Firestore with firebase with noSQL
 * mySQL with local server
 * Display of WebApp so far
-* Get Minimal Viable Product working as quick as possibly and think of everything else as extra features - Prof. Klein
-*  
+* NB! Get Minimal Viable Product working as quick as possibly and think of everything else as extra features - Prof. Klein
+* MOCK API
