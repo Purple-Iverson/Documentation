@@ -20,7 +20,7 @@
     - [x] Task: Create page for import questions
 - [x] As an user, I want to login to the system to get access to question bank system
     - [x] User Acceptance Test: Given that I enter a valid credentials, when I log in, the system will give me access
-    - [x] Task: Create log in valid credentials    
+    - [x] Task: Create a valid log-in user  
 - [ ] As an user, I want to peer review questions (like/dislike) on the system to ensure that the questions on the system are of high quality/standard.
     - [ ] User Acceptance Test:	Given that I am an a signed in user, when I review a question, the review will be saved in the system. 
     - [ ] Task: Create page for peer review
