@@ -1,5 +1,8 @@
 # Technical Requirements
 
+* Log-in to system
+  * Only a valid user that has access the system can access the system with their valid log-in credentials
+   
 * Create new question of different types
   * Going from the Hub/menu, to create question page, user will be able to add a new question from a drop-down menu of choice (Multiple-choice question, text-entry,       essay)
 
