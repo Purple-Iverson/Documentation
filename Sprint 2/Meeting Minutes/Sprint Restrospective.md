@@ -11,4 +11,5 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 * **Sprint 1**
   * Sprint went well
   * Need to document issues
-  * Split up tasks  
+  * Split up tasks into smaller tasks
+  * Need more people on back-end
