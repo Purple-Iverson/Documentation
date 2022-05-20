@@ -1,7 +1,7 @@
 # Sprint Planning Meeting Minutes
 
-# Date: May 2022
-# Time: 19:00
+# Date: 10 May 2022
+# Time: 10:00
 # Location: Online, Discord
 
 # In Attendance
