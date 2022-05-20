@@ -31,6 +31,8 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 
 - [x] Github needs
 
+- [x] Progress report from database
+
 
 # Additional:
 
