@@ -9,52 +9,32 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 
 # Agenda
 
-- [ ] Do we have our scrum meetings recorded?
+- [x] Do we have our scrum meetings recorded?
+     - [x] All 5 spints minutes documentated (just double check sprint restropective) 
+
+- [x] User stories: Review + User acceptance test
+    - [x] Abby change up some of user stories (CRUD) 
+
+- [x] UML diagrams. Component Diagram. Sequence diagram. User diagram thingy etc. They are really pedantic about this. View models?
+    - [x] Abby add tasks under task board  
+
+- [x]	How's the testing going. Need 50% and need someone to write the tests
+
+- [x] 9 Tasks: Need assignation
+    - [x] Under Task board 
+
+- [x] Progress report from everyone
+
+- [x]	Sprint meeting with Derrin. ( for the fifth one )
+
+- [x]	Go over Sprint 3 requirements( so we all get our marks )
+
+- [x] Github needs
 
 
+# Additional:
 
-- [ ] User stories: Review + User acceptance test
-
-
-
-- [ ] UML diagrams. Component Diagram. Sequence diagram. User diagram thingy etc. They are really pedantic about this. View models?
-
-
-
-
-- [ ]	How's the testing going. Need 50% and need someone to write the tests
-
-
-
-
-- [ ] 9 Tasks: Need assignation
-
-
-
-
-- [ ] Progress report
-
-
-
-
-- [ ]	Everyone will have an
-
-
-
-
-- [ ]	Sprint meeting with Derrin. ( for the fifth one )
-
-
-
-
-- [ ]	Go over Sprint 3 requirements( so we all get our marks )
-
-- [ ] Github needs
-
-
-Additional:
-
-
+Email from Tamlin:
 
 Hi everybody,
 
