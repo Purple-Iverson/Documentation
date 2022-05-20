@@ -17,3 +17,7 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 * Add a feature:
   * Peer review (rating)
   *   * Adding like/dislike buttons or comment text boxes (choose which one is easier)  
+
+* James and Seshnie change of database
+* Rest of backend focusing on creating the complete pipeline structure 
+* Rest of UI focus on the polishing of current UI and creating review feature, and document everything for traceable (User-stories, tests, etc.)
