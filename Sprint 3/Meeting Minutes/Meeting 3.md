@@ -18,16 +18,17 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 - [x] UML diagrams. Component Diagram. Sequence diagram. User diagram thingy etc. They are really pedantic about this. View models?
     - [x] Abby add tasks under task board  
 
-- [x]	How's the testing going. Need 50% and need someone to write the tests
+- [x] How's the testing going. Need 50% and need someone to write the tests
 
 - [x] 9 Tasks: Need assignation
     - [x] Under Task board 
 
 - [x] Progress report from everyone
 
-- [x]	Sprint meeting with Derrin. ( for the fifth one )
+- [x] Sprint meeting with Derrin. (for the fifth one)
 
-- [x]	Go over Sprint 3 requirements( so we all get our marks )
+- [x] Go over Sprint 3 requirements(so we all get our marks)
+     - [x] Need diagrams (4+1 model) 
 
 - [x] Github needs
 
