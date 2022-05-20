@@ -13,12 +13,12 @@
     - [x] Task: Create buttons for rating
 
 
-- [x] As an authorized user of the system, I want to see a complete pipeline of the essay questions in the database, to see that these type of questions are stored in       the database for future use.
+- [x] As an authorized user (developer) of the system, I want to see a complete pipeline of the essay questions in the database, to see that these type of questions are stored in       the database for future use.
     - [x] User Acceptance Test:	Given that I am an authorized user of the system, when I log in into the database with the correct credentials, then I will see the            essay question that was created. 
 
-- [x] As an authorized user of the system, I want to see a complete pipeline of questions that were imported in the database, to see that these type of questions are stored in the database for future use.
+- [x] As an authorized user (developer) of the system, I want to see a complete pipeline of questions that were imported in the database, to see that these type of questions are stored in the database for future use.
     - [x] User Acceptance Test:	Given that I am an authorized user of the system, when I log in into the database with the correct credentials, then I will see the    question that was just imported. 
     
 
-- [x] As an authorized user of the system, I want to see a complete pipeline of the multiple-choice questions in the database, to see that these type of questions are stored in       the database for future use.
+- [x] As an authorized user (developer) of the system, I want to see a complete pipeline of the multiple-choice questions in the database, to see that these type of questions are stored in       the database for future use.
     - [x] User Acceptance Test:	Given that I am an authorized user of the system, when I log in into the database with the correct credentials, then I will see the            multiple-choice question that was created. 
