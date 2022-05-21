@@ -10,17 +10,17 @@
     - [x] User Acceptance Test:	Given that I am a signed in user, 
     - [x] Task: Add create 'view' button to hub/menu
     - [x] Task: Create list view for view question
+    
+- [x] As an user, I want to create essay questions to be stored in the database, so that it can be used by users with access to question bank management system for       test creation in the future. 
+    - [x] User acceptance Test: Given access to the database, when logging into the database, then will see the question that was just created stored in the                   database.
 
-- [x] As an authorized user (developer) of the system, I want to see a complete pipeline of the essay questions in the database, to see that these type of questions are stored in the database for future use.
-    - [x] User Acceptance Test:	Given that I am an authorized user of the system, when I log in into the database with the correct credentials, then I will see the            essay question that was created. 
+- [x] As an user, I want to create multiple-choice questions to be stored in the database, so that it can be used by users with access to question bank management         system for test creation in the future. 
+    - [x] User acceptance Test: Given access to the database, when logging into the database, then will see the question that was just created stored in the                   database.
 
-- [x] As an authorized user (developer) of the system, I want to see a complete pipeline of questions that were imported in the database, to see that these type of questions are stored in the database for future use.
-    - [x] User Acceptance Test:	Given that I am an authorized user of the system, when I log in into the database with the correct credentials, then I will see the    question that was just imported. 
+- [x] As an user, I want to import questions to be stored in the database, so that it can be used by users with access to question bank management system for       test creation in the future. 
+    - [x] User acceptance Test: Given access to the database, when logging into the database, then will see the question that was just imported stored in the                   database.
 
-- [x] As an authorized user (developer) of the system, I want to see a complete pipeline of the multiple-choice questions in the database, to see that these type of questions are stored in the database for future use.
-    - [x] User Acceptance Test:	Given that I am an authorized user of the system, when I log in into the database with the correct credentials, then I will see the            multiple-choice question that was created. 
-
-- [x] As an authorized user (developer) of the system, I want to see a complete pipeline of the text-entry questions in the database, to see that these type of questions are stored in the database for future use.
-    - [x] User Acceptance Test:	Given that I am an authorized user of the system, when I log in into the database with the correct credentials, then I will see the            text entry question that was created. 
+- [x] As an user, I want to create text-entry questions to be stored in the database, so that it can be used by users with access to question bank management system       for test creation in the future. 
+    - [x] User acceptance Test: Given access to the database, when logging into the database, then will see the question that was just created stored in the                   database.
 
 
