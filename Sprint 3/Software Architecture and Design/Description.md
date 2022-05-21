@@ -1,5 +1,7 @@
 # Software Architecture and Design Description
 
+A question bank management system, allows a user to create different type of questions that will be stored in the system and as well import questions. Users will be to creates quizzes/tests from the questions that will be stored in the system and users will be able to rate/review questions. 
+
 In creating the software system, flutter will be used as the framework which uses dart language. Flutter has fast rendering. It has one UI design and using a single code base has one user interface and can be used one both platforms which saves development time. 
 
 GitHub will be used as the software configuration management software. The Kanboard on GitHub will be used as our scrum task board which shows our product backlog and the tasks and features to be completed.
