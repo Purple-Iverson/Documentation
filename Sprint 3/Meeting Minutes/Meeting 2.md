@@ -15,3 +15,7 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
   * Diagrams
   * Fix errors of database
   * Code coverage tests?? 
+
+# Next meeting:
+
+20 May 2022
