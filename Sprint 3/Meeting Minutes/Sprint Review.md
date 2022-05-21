@@ -4,9 +4,9 @@
 
 ## Time: 13:15
 
-## Location: In Person, On Campus
+## Location: Online, Microsoft Teams
 
 ## In Attendance
-Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, James Thackeray, Gabriel Nkole, Tasneem Francisco, Que Sera Subramoney
+Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, James Thackeray, Gabriel Nkole, Tasneem Francisco, Que Sera Subramoney, Derrin Naidoo (Intern)
 
 ## Agenda 
