@@ -10,14 +10,14 @@
 
 
 * Completion of essay question
-  * A user can see the complete creation of the essay question that was just created 
+  * A user can see the complete creation of the essay question that was just created stored in the database
 
 
 * Completion of mcq question
-  * A user can see the complete creation of the mcq question that was just created 
+  * A user can see the complete creation of the mcq question that was just created stored in the database
 
 * Completion of import question
-  * A user can see the complete creation of the import question that was just created 
+  * A user can see the complete creation of the import question that was just created stored in the database
 
 * Completion of text-entry question
-  * A user can see the complete creation of the text-entry question that was just created 
+  * A user can see the complete creation of the text-entry question that was just created stored in the database
