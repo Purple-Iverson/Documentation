@@ -13,3 +13,4 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
 
 * Refined the product backlog (Scrum Task Board) 
 * Need a minimum-viable product
+* Change of database
