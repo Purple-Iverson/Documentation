@@ -14,3 +14,7 @@ Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, Ja
   * Focus on creating a minimal viable product
   * Addition of the 2 features: review and view
 * Divison of tasks   
+
+# Next Meeting:
+
+16 May 2022 
