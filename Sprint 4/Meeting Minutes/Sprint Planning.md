@@ -1,4 +1,6 @@
- **Date:** 23 May 2022
+# **Sprint Planning Meeting Minutes**
+
+**Date:** 23 May 2022
 
   **Time:** 13:15
 
