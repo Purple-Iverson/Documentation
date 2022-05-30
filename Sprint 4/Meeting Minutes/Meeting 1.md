@@ -1,4 +1,16 @@
+# Meeting 1 Minutes
 
+## **Date:** 30 May 2022
+
+## **Time:** 18:00
+
+## **Location:** Online, Discord
+
+## **In Attendance:**
+
+Abigail Naicker, Akshay Makhan, Harshan Pillay, Navin Philip, Seshnie Naidoo, James Thackeray, Gabriel Nkole, Tasneem Francisco, Que Sera Subramoney
+
+## **Agenda:**
 
 ## Stand up meeting Sprint 4
 - [ ] Merging Gabrial's code
@@ -10,7 +22,7 @@
 - [ ] Merge all working code to master. Create "Development" branch, this will be used as our way of gluing 
 
 
-Additional :
+## Additional :
 
 - Hows the testing going?
 - Hows the UI going?
